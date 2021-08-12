@@ -1,1 +1,1 @@
-# calculadora exemplo de calculo
+# calculadora exemplo de calculo.
